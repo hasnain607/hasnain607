@@ -1,4 +1,6 @@
 ## Hi there 👋
+I’m an enthusiastic and passionate Software Engineering student ... 
+I’m currently learning Cloud Computing ...
 
 <!--
 **hasnain607/hasnain607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
