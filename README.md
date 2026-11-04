@@ -2,7 +2,7 @@
 
 I like learning by building things and by contributing to open source.
 
-[All my merged PRs](https://github.com/pulls/search?q=is%3Apr+author%3Ahasnain607+is%3Amerged+-user%3Ahasnain607)
+All of my merged [PRs](https://github.com/pulls/search?q=is%3Apr+author%3Ahasnain607+is%3Amerged+-user%3Ahasnain607)
 
 <!--
 **hasnain607/hasnain607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
