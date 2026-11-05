@@ -2,7 +2,8 @@
 
 I like learning by building things and by contributing to open source.
 
-All of my merged [PRs](https://github.com/pulls/search?q=is%3Apr+author%3Ahasnain607+is%3Amerged+-user%3Ahasnain607)
+[![Merged PRs](https://img.shields.io/github/issues-search?query=is%3Apr%20author%3Ahasnain607%20is%3Amerged%20-user%3Ahasnain607&label=Merged%20PRs&color=2ea44f&style=flat)](https://github.com/pulls?q=is%3Apr+author%3Ahasnain607+is%3Amerged+-user%3Ahasnain607)
+[![Open PRs](https://img.shields.io/github/issues-search?query=is%3Apr%20author%3Ahasnain607%20is%3Aopen%20-user%3Ahasnain607&label=Open%20PRs&color=0e75b6&style=flat)](https://github.com/pulls?q=is%3Apr+author%3Ahasnain607+is%3Aopen+-user%3Ahasnain607)
 
 <!--
 **hasnain607/hasnain607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
